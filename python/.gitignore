@@ -3,3 +3,6 @@
 .coverage
 .idea/
 *.iml
+# Virtual environment created with
+# python3.12 -m venv env --copies --prompt GRpy --upgrade-deps
+env
